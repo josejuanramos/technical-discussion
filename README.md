@@ -17,4 +17,4 @@ This is a [notebook] https://github.com/josejuanramos/technical-discussion/blob/
 
 -------------------------------------------
 
-Image https://user-images.githubusercontent.com/103850723/163687656-207479f3-f53a-4342-a147-48b0133ba9c8.png
+[Image] [https://user-images.githubusercontent.com/103850723/163687656-207479f3-f53a-4342-a147-48b0133ba9c8.png]
