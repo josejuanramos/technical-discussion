@@ -14,3 +14,7 @@ This is a good example of my code https://gist.github.com/josejuanramos/2adf6d8c
 -------------------------------------------
 
 This is a [notebook] https://github.com/josejuanramos/technical-discussion/blob/main/Text1.ipynb
+
+-------------------------------------------
+
+[Image] https://github.com/josejuanramos/technical-discussion/issues/1
